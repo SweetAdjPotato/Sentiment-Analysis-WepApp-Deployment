@@ -36,7 +36,7 @@ To sensure the model working well, I tested the deployed model and the accuracy 
 
 The main outcome of this project is a web app thant can be deployed anywhere for sentiment analysis. The web app demo is given below:
 
-![Web app example](.images/web_app_demo.gif)
+<img src="images/web_app_demo.gif">
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
 
