@@ -1,4 +1,4 @@
-# SageMaker Deployment Project
+# Sentiment Analysis Web App Deployment 
 
 In this project, a simple web app is deployed using Amazon SageMaker and PyTorch using the [IBDM Dataset](https://www.imdb.com/interfaces/). The web app interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. 
 
